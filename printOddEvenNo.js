@@ -5,9 +5,7 @@ for(let i = 0; i < arr.length; i++){
     if(arr[i] % 2 === 0) {
          console.log("Number is Even", arr[i])
     }
-    else{
-        console.log("Number is Odd",arr[i])
-    }
+    
 }
 
 

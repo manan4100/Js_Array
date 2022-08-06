@@ -11,3 +11,5 @@ for(let item of Str_Array){
     if(item.length>largest.length)largest
 }
 console.log(largest)
+
+// [0,1,1,1,0,0,1]
